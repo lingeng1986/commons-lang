@@ -1,0 +1,1 @@
+add a ToStringStyle, which is similar with the ToStringStyle.SHORT_PREFIX_STYLE but will not print the fields which is null.
